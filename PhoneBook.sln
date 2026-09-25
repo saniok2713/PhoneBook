@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{9788A6B3-D496-484A-A833-BF5ADA773B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9788A6B3-D496-484A-A833-BF5ADA773B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9788A6B3-D496-484A-A833-BF5ADA773B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9788A6B3-D496-484A-A833-BF5ADA773B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9788A6B3-D496-484A-A833-BF5ADA773B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83502EE1-9642-4C40-9F6D-9F444A098F8E}
+	EndGlobalSection
+EndGlobal
